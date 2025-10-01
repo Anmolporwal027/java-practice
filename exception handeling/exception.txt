@@ -1,0 +1,7 @@
+✅ Correct Way to Say
+
+throws: “This method might throw an exception, I’m not handling it.”
+
+throw or Java runtime: Actually creates and throws the exception object.
+
+catch block: Handles it if it happens.
